@@ -1,3 +1,3 @@
 def main():
-    print("Mi primer archivo en git @Umayor.cl")
+    print("Mi primer archivo en git @Umayor.cl.")
     main()
